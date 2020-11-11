@@ -8,7 +8,7 @@
 <img src = "https://github.com/2022ehe/2022ehe/blob/main/R.png" width="38"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Python.png" width="25"> <img src="https://github.com/2022ehe/2022ehe/blob/main/GitHub.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Matlab.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Java.png" width="20">
 
 ### Get in Touch
-<img src = "https://github.com/2022ehe/2022ehe/blob/main/Gmail.png" width="40"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/LinkedIn.png" width="30">
+<img src = "https://github.com/2022ehe/2022ehe/blob/main/Gmail.png" width="50"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/LinkedIn.png" width="30">
 
 <!--
 **2022ehe/2022ehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
