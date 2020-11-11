@@ -5,7 +5,7 @@
 - 🌅 I love hiking and good views!
 
 ### Languages and Tools
-<img src = "https://github.com/2022ehe/2022ehe/blob/main/R.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Python.png" width="30"> <img src="https://github.com/2022ehe/2022ehe/blob/main/GitHub.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Matlab.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Java.png" width="30">
+<img src = "https://github.com/2022ehe/2022ehe/blob/main/R.png" width="40"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Python.png" width="25"> <img src="https://github.com/2022ehe/2022ehe/blob/main/GitHub.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Matlab.png" width="30"> <img src = "https://github.com/2022ehe/2022ehe/blob/main/Java.png" width="20">
 
 
 <!--
