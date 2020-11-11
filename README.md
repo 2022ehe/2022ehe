@@ -5,7 +5,7 @@
 - 🌅 I love hiking and good views!
 
 ### Languages and Tools
-![R_logo](R.png)
+![R_logo](R.png = 10x10)
 
 <!--
 **2022ehe/2022ehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
