@@ -5,7 +5,7 @@
 - 🌅 I love hiking and good views!
 
 ### Languages and Tools
-![R_logo](R.png = 10x10)
+<img src="https://github.com/favicon.ico" width="48">
 
 <!--
 **2022ehe/2022ehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
