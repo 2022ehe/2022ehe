@@ -1,4 +1,4 @@
-## Hi 👋 I'm Emily, an undergrad studying Bioengineering!
+## Hi - I'm Emily, an undergrad studying Bioengineering!
 
 - 🔭 I'm conducting functional genomics research at BIDMC.
 - :bar_chart: I'm analyzing U.S. education trends in Gov 50. 
