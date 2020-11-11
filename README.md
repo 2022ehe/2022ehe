@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Emily, an undergrad studying Bioengineering!
+
+- 🔭 I'm conducting functional genomics research at BIDMC.
+- :barchart: I'm analyzing U.S. education trends in Gov 50. 
+- 🌅 I love hiking and good views.
+
+### Languages and Tools
+
 
 <!--
 **2022ehe/2022ehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
