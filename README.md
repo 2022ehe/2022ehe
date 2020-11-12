@@ -1,6 +1,6 @@
 ## Hi - I'm Emily, an undergrad studying Bioengineering!
 
-- 🔭 I'm conducting functional genomics research at BIDMC.
+- 🔭 I'm conducting functional genomics research at HMS/BIDMC.
 - :bar_chart: I'm analyzing U.S. education trends in Gov 50. 
 - 🌅 I love hiking and good views!
 
